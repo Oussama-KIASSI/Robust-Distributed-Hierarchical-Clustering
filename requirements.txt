@@ -1,0 +1,9 @@
+python==3.10.10
+pyspark==3.3.2
+pandas==3.3.2
+numpy==1.23.5
+networkx==3.0
+scipy==1.10.1
+sklearn==1.2.2
+matplotlib==3.7.1
+logging==0.5.1.2
